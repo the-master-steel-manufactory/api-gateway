@@ -8,3 +8,4 @@ Tugas untuk kandidat programmer
    - User
    - Employee
    - Postgresql
+4. Buat unit testing nya
